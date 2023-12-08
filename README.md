@@ -1,4 +1,4 @@
-# Dockerized Paxos web service submission
+# Dockerized web service submission
 
 
 ### DEPLOYMENT
